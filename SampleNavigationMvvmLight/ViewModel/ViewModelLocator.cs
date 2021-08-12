@@ -9,10 +9,10 @@
   DataContext="{Binding Source={StaticResource Locator}, Path=ViewModelName}"
 */
 
+using CommonServiceLocator;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
-using Microsoft.Practices.ServiceLocation;
-using Chargily.Helpers;
+using GalaSoft.MvvmLight.Views;
 using System;
 
 namespace Chargily.ViewModel

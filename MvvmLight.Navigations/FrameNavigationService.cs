@@ -9,7 +9,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
-namespace Chargily.Helpers
+namespace GalaSoft.MvvmLight.Views
 {
     public class FrameNavigationService: IFrameNavigationService, INotifyPropertyChanged
     {

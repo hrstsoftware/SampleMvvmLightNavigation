@@ -1,7 +1,7 @@
 ﻿using GalaSoft.MvvmLight;
 using System.Windows.Input;
 using GalaSoft.MvvmLight.Command;
-using Chargily.Helpers;
+using GalaSoft.MvvmLight.Views;
 
 namespace Chargily.ViewModel
 {

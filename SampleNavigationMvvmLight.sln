@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleNavigationMvvmLight", "SampleNavigationMvvmLight\SampleNavigationMvvmLight.csproj", "{FAB71454-0C7B-4900-B031-5CC9C079336D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmLight.Navigations", "MvvmLight.Navigations\MvvmLight.Navigations.csproj", "{36405442-6060-4E69-B329-62B24263E420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FAB71454-0C7B-4900-B031-5CC9C079336D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAB71454-0C7B-4900-B031-5CC9C079336D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAB71454-0C7B-4900-B031-5CC9C079336D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36405442-6060-4E69-B329-62B24263E420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36405442-6060-4E69-B329-62B24263E420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36405442-6060-4E69-B329-62B24263E420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36405442-6060-4E69-B329-62B24263E420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
